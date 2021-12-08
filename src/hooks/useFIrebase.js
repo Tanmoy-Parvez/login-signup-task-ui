@@ -78,7 +78,7 @@ const useFirebase = () => {
     }
 
     useEffect(() => {
-        axios.post('https://registertest.free.beeceptor.com/init', {
+        axios.post('https://peaceful-ridge-52130.herokuapp.com/signUpUser', {
             uid: user?.uid,
             email: user?.email
         })
