@@ -1,0 +1,34 @@
+.regular-btn {
+  background-color: #5b54f1;
+  color: #fff;
+  padding: 0px 30px;
+}
+
+.banner-bg {
+  background-color: #5c54f113;
+}
+
+.purple-bg {
+  background-color: #5b54f1;
+}
+.dark-purple-bg {
+  background-color: #4941eb;
+}
+.purple-text {
+  color: #5b54f1;
+}
+
+.nav-items a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.nav-items a:hover {
+  color: #320f55;
+}
+
+.menu-list li {
+  list-style: none;
+  margin-top: 10px;
+  font-size: 18px;
+}
